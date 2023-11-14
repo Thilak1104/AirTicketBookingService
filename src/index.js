@@ -21,6 +21,7 @@ const setupAndStartServer = () => {
                 alter: true
             });
         }
+        
     });
 }
 
